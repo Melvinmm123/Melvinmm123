@@ -13,7 +13,8 @@ Currently:
 - **Quant:** multi-strategy backtesting, portfolio analytics, Monte Carlo risk modeling
 
 ### Tech
-`Python` `PyTorch` `TensorFlow` `LangChain` `Streamlit` `SQL` `AWS` `Azure` `Docker`
+`Python` `PyTorch` `TensorFlow` `LangChain` `Streamlit` `SQL` `AWS` `Tableau` `Machine Learning` `Computer Vision` `NLP` `LLM Finetuning`  
+
 
 ### Selected projects
 | Project | What it is | Stack |
