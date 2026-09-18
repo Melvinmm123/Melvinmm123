@@ -19,6 +19,5 @@ Currently:
 | Project | What it is | Stack |
 |---|---|---|
 | [QuantPulse](https://github.com/Melvinmm123/quantpulse) | Multi-strategy equity portfolio platform w/ Monte Carlo risk | Python, Streamlit, pandas |
-| [FinRAG](https://github.com/Melvinmm123/finrag) | RAG over SEC 10-K filings with eval harness | LangChain, ChromaDB, Streamlit |
 | [Candlestick YOLOv8 + CrossViT](https://github.com/Melvinmm123/candlestick-yolov8-crossvit) | Hybrid CV pipeline for financial chart patterns | YOLOv8, CrossViT, PyTorch |
 | [BioBERT + UMLS QA](https://github.com/Melvinmm123/biobert-umls-medqa) | Medical QA with knowledge-graph augmentation | BioBERT, UMLS |
