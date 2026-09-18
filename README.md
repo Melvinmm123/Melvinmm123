@@ -3,7 +3,7 @@
 MS in Artificial Intelligence (RIT, 3.84 GPA) building at the intersection of **applied ML, computer vision, and quantitative finance**.
 
 Currently:
-- 🛠️ Building **[QuantPulse](https://github.com/Melvinmm123/quantpulse)** — a multi-strategy algorithmic trading platform on NSE Indian equities
+- 🛠️ Building **[QuantPulse](https://github.com/Melvinmm123/quantpulse)** — a multi-strategy algorithmic trading platform on NSE Indian equities (source private during commercialization; repo documents architecture, methodology, and results)
 - 🔎 Open to full-time **AI/ML Engineer** and **Quant / Fintech** roles (US-based, remote or NYC/Long Island)
 - 📫 [melvin.melel@gmail.com](mailto:melvin.melel@gmail.com) · [LinkedIn](https://www.linkedin.com/in/melvin-mathew-melel/)
 
@@ -18,6 +18,6 @@ Currently:
 ### Selected projects
 | Project | What it is | Stack |
 |---|---|---|
-| [QuantPulse](https://github.com/Melvinmm123/quantpulse) | Multi-strategy equity portfolio platform w/ Monte Carlo risk | Python, Streamlit, pandas |
+| [QuantPulse](https://github.com/Melvinmm123/quantpulse) | Multi-strategy equity portfolio platform w/ Monte Carlo risk *(showcase — source private)* | Python, Streamlit, pandas |
 | [Candlestick YOLOv8 + CrossViT](https://github.com/Melvinmm123/candlestick-yolov8-crossvit) | Hybrid CV pipeline for financial chart patterns | YOLOv8, CrossViT, PyTorch |
 | [BioBERT + UMLS QA](https://github.com/Melvinmm123/biobert-umls-medqa) | Medical QA with knowledge-graph augmentation | BioBERT, UMLS |
